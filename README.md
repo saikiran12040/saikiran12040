@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development course at Masai School**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio link](https://saikiran12040.github.io/)
 
 - 💬 Ask me about **JavaScript, MERN & DSA**
 
