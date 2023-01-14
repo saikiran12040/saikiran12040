@@ -1,7 +1,7 @@
 <img align="center" alt="coding" width="1200" height="300"  src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 <h3 align="center">From Bangalore, India. I am well trained in Full stack web developer for 1200+ hours of coding, with hands on experience in doing project with solely and in group collaboration and curious to learn new emerging technologies.</h3>
-<img align="right" alt="coding" width="450"  src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="550"  src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran12040&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran12040" /> </p>
 
