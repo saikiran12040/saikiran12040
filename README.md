@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saikiran12040&bg_color=white&color=5BCDEC&hide_border=false&width=100vh" alt="saikiran12040" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saikiran12040&hide_border=true&theme=react&hide_border=true&bg_color=0D1117" alt="saikiran12040" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saikiran12040&hide_border=true&theme=react&bg_color=0D1117" alt="saikiran12040" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran12040&" alt="saikiran12040" /></p>
