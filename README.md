@@ -37,3 +37,5 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran12040&theme=tokyonight&hide_border=true" alt="Total_Contribution" width="500px"/>
 </p>
+
+![snake gif](https://github.com/saikiran12040/saikiran12040/blob/output/github-contribution-grid-snake.gif)
