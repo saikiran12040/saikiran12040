@@ -30,12 +30,12 @@
 
 <h2>📝 My GitHub Stats: </h2>
 
-<p align="center" ><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saikiran12040&bg_color=0D1117&color=5BCDEC&hide_border=true&width=100vh" width="500px" /></P>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran12040&langs_count=8&bg_color=0D1117&color=5BCDEC&hide_border=true" width="500px" /></P>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saikiran12040&theme=react&hide_border=true&bg_color=0D1117" width="500px" alt="saikiran12040" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikiran12040&show_icons=true&theme=radical" width="500px" alt="saikiran12040" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saikiran12040&theme=tokyonight-duo" alt="Total_Contribution" width="500px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saikiran12040&theme=radical" alt="Total_Contribution" width="500px"/>
 </p>
 
 
