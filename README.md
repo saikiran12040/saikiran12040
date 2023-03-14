@@ -30,7 +30,7 @@
 
 <h2>📝 My GitHub Stats: </h2>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran12040&langs_count=8&bg_color=0D1117&color=5BCDEC&hide_border=true" width="500px" /></P>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran12040&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500px" /></P>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikiran12040&show_icons=true&theme=radical" width="500px" alt="saikiran12040" />
 </p>
