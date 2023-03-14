@@ -35,7 +35,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saikiran12040&theme=react&hide_border=true&bg_color=0D1117" width="500px" alt="saikiran12040" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran12040&theme=tokyonight&hide_border=true" alt="Total_Contribution" width="500px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saikiran12040&theme=tokyonight-duo" alt="Total_Contribution" width="500px"/>
 </p>
+
 
 
