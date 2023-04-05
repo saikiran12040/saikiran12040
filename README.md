@@ -14,8 +14,9 @@
 
 - 📫 How to reach me **saikirangen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cg98SSVoFs4gcIaVLNvjFw59TQY0__O0/view?usp=sharing](https://drive.google.com/file/d/1Cg98SSVoFs4gcIaVLNvjFw59TQY0__O0/view?usp=sharing)
-
+- 💬 contact me  <a href='https://www.linkedin.com/in/saikiranconnect/'>LinkedIn</a>                                       
+  
+- 📫 About Me  <a href='https://drive.google.com/file/d/1Cg98SSVoFs4gcIaVLNvjFw59TQY0__O0/view?usp=sharing'>My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <img align="center" width="1200"src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
